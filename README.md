@@ -1,5 +1,5 @@
 # AdventureWorks Database:
-[Installation and Configuration Guide](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms){:style="color: blue"}
+<a href="https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms" style="color: blue;">Installation and Configuration Guide</a>
 
 ![Description de l'image](https://github.com/GeoffroyMorel1992/Database-sample-AdventureWorks2017/raw/main/Lien%20-%20database%20AdventureWorks.png)
 
